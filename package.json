@@ -1,0 +1,25 @@
+{
+  "name": "d2d-graph",
+  "version": "0.0.1",
+  "description": "Draw2D Graph object",
+  "main": "dist/graph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacapita/d2d-graph.git"
+  },
+  "keywords": [
+    "draw2d",
+    "graph"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sacapita/d2d-graph/issues"
+  },
+  "homepage": "https://github.com/sacapita/d2d-graph#readme",
+  "dependencies": {
+    "cubitt-common": "~0.5.0"
+  }
+}
